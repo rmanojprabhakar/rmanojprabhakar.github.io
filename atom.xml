@@ -4,7 +4,7 @@
   <title><![CDATA[Manoj's Blog]]></title>
   <link href="http://rmanojprabhakar.github.io/atom.xml" rel="self"/>
   <link href="http://rmanojprabhakar.github.io/"/>
-  <updated>2017-02-26T22:06:00+05:30</updated>
+  <updated>2017-02-26T22:20:00+05:30</updated>
   <id>http://rmanojprabhakar.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,14 +18,7 @@
     <link href="http://rmanojprabhakar.github.io/blog/2017/02/26/a-survivors-instinct/"/>
     <updated>2017-02-26T19:57:47+05:30</updated>
     <id>http://rmanojprabhakar.github.io/blog/2017/02/26/a-survivors-instinct</id>
-    <content type="html"><![CDATA[<h3>This is my first blog</h3>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='sh'><span class='line'>chmod 777
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p><a href="https://youtube.com">this is video link</a></p>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
