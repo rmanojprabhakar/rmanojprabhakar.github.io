@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://rmanojprabhakar.github.io/sitemap.xml 
