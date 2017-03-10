@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Manoj's Blog]]></title>
+  <title><![CDATA[Manoj's Travelogue]]></title>
   <link href="http://rmanojprabhakar.github.io/atom.xml" rel="self"/>
   <link href="http://rmanojprabhakar.github.io/"/>
-  <updated>2017-03-10T10:27:57+05:30</updated>
+  <updated>2017-03-10T10:32:27+05:30</updated>
   <id>http://rmanojprabhakar.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Manoj]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[A Survivor's Instinct]]></title>
+    <title type="html"><![CDATA[A Traveller's Instinct]]></title>
     <link href="http://rmanojprabhakar.github.io/blog/2017/02/26/a-survivors-instinct/"/>
     <updated>2017-02-26T19:57:47+05:30</updated>
     <id>http://rmanojprabhakar.github.io/blog/2017/02/26/a-survivors-instinct</id>
